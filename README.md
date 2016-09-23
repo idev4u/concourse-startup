@@ -10,6 +10,8 @@ Installed [Vagrant](https://www.vagrantup.com/docs/installation/)
 ### How to
 
 ```
+bash$ git clone https://github.com/idev4u/concourse-startup.git
+bash$ cd concourse-startup
 bash$ ./startup.sh
 ```
 
