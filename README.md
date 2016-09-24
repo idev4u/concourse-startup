@@ -68,4 +68,4 @@ this is the part of bash block which produce the output in the job __do-some-coo
 
 **hint**
 
-only if fly not get autmatically installded, then you get it from [here](https://github.com/concourse/fly)
+only if concourse cli (fly) will not be automatically installed, then you get it from [here](https://github.com/concourse/fly)
